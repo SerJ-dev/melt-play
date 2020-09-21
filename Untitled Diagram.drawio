@@ -1,1 +1,156 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T10:54:15.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.7.3" etag="aucybe4YataxEKXAdcc1" type="github"><diagram id="EAE0AJFJz3zD23Vq8FGM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-21T11:46:57.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="8gamKlQRuKjw6VFBLeTP" version="13.7.3" type="github">
+  <diagram id="EAE0AJFJz3zD23Vq8FGM" name="Page-1">
+    <mxGraphModel dx="1221" dy="1794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sezRcTtWhXjSAXopnoHD-24" value="Анимации" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="340" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-4" value="&lt;font style=&quot;font-size: 18px ; background-color: rgb(212 , 225 , 245)&quot;&gt;Сценарий игры&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-20" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-5" value="Начало:&lt;br&gt;персонаж приезжает к заводу." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=70;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-11" target="sezRcTtWhXjSAXopnoHD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-11" target="sezRcTtWhXjSAXopnoHD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-11" value="Модели" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
+          <mxGeometry x="630" y="130" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-22" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Персонаж.&lt;br&gt;Автобус.&lt;br&gt;Окружающая среда&lt;/font&gt;.&lt;br&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="270" width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-31" target="sezRcTtWhXjSAXopnoHD-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-31" value="Превью(movie):&lt;br&gt;Первая катсцена встречающая игрока&lt;br&gt;(Cut Scene 1)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-36" value="&lt;font style=&quot;font-size: 30px; background-color: rgb(212, 225, 245);&quot;&gt;План действий!&lt;br style=&quot;font-size: 30px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="675" y="-160" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-40" target="sezRcTtWhXjSAXopnoHD-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="57.23529411764707" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-40" target="sezRcTtWhXjSAXopnoHD-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-40" value="&lt;span style=&quot;background-color: rgb(255 , 181 , 112)&quot;&gt;План действий РОБОТА, который встречает персонажа (ИИ)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1000" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-42" value="Движение&lt;br&gt;&lt;br&gt;Робот будет двигаться по заданной траектории сопровождая игрока. Как компаньон , двигаясь рядом с ним все время .&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="-60" width="140" height="232.76" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-44" value="Диалоги.&lt;br&gt;&lt;br&gt;Разные диалоги исходя из ситуации , Робот шутит на игроком иди дает подсказки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="340" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-48" target="sezRcTtWhXjSAXopnoHD-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="805" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-48" value="Основной квест" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="670" y="560" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-51" target="sezRcTtWhXjSAXopnoHD-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-51" target="sezRcTtWhXjSAXopnoHD-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-51" target="sezRcTtWhXjSAXopnoHD-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="805" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-51" value="сделать сплав металла&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-54" value="первый компонент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-56" value="второй компонент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-58" value="выполнить квест&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-59" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Персонаж должен получать каждый компонент для создания сплава .&lt;br&gt;Получение каждого компонента выполняется путем каких-либо действий в комнате этого компонента&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="660" width="260" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-67" value="" style="endArrow=none;dashed=1;html=1;fontSize=30;entryX=0;entryY=0;entryDx=115;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sezRcTtWhXjSAXopnoHD-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="600" as="sourcePoint" />
+            <mxPoint x="990" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-70" target="sezRcTtWhXjSAXopnoHD-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-70" value="Прибытие на завод, встреча с роботом-помощником, который сопровождает его до Квестодателя." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="430" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-72" target="sezRcTtWhXjSAXopnoHD-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-72" value="Выполнение квеста (сюжет)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="640" width="145" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-74" value="Выполненный квест сдается квестодателю, далее HappyEnd.&lt;br&gt;Предложение о сотрудничестве и следующих уровнях." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="850" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-76" target="sezRcTtWhXjSAXopnoHD-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-76" value="Концовка (HappyEnd)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1110" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-78" target="sezRcTtWhXjSAXopnoHD-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-78" value="Озвучка от лица персонажа: &quot;Отлично, сегодня я сделал свой первый металл, хотелось бы попробовать что то еще!&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1380" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="sezRcTtWhXjSAXopnoHD-81" target="sezRcTtWhXjSAXopnoHD-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-81" value="Ответа робота: &quot;Чтож, экскурсия подходит к концу, приходи снова, мы сделаем что-нибудь новое!&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1560" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sezRcTtWhXjSAXopnoHD-83" value="Завершающая Cut Scene. Студент выходит с завода и дверь за ним закрывается.&lt;br&gt;Last Cut Scene" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="1710" width="130" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
