@@ -758,7 +758,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff27a85536439dc47bdcbc10215a5b58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
+  speed: 15
   obstacleRange: 5
 --- !u!1 &8017405224576841506
 GameObject:
